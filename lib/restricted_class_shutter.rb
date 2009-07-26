@@ -1,7 +1,4 @@
-$LOAD_PATH.unshift File.join(File.dirname(__FILE__), '..', 'vendor')
-
-require 'java'
-require 'js.jar'
+require 'common'
 
 # RestrictedClassShutter prevents javascript from accessing java classes and
 # methods, effectively sandboxing the code.

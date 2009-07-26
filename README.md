@@ -13,7 +13,7 @@ place. Oxpecker also cleans up some of the Java exceptions and return values,
 and makes them a bit more ruby-friendly.
 
 It's possible to do this natively in Ruby by using JRuby to interface with the
-Java library.
+Java library. So yes, this needs to be run in JRuby.
 
 Examples
 --------

@@ -2,8 +2,8 @@
 # Execute sandboxed JavaScript from Ruby using Mozilla's Rhino.
 #
 # Author::    Gianni Chiappetta  (mailto:gianni@runlevel6.org)
-# Copyright:: Copyright (c) 2009 Runlevel6
-# License::   Distributes under the same terms as Ruby
+# Copyright:: Copyright (c) 2009 Gianni Chiappetta
+# License::   Distributes under the MIT license
 
 require 'common'
 require 'restricted_class_shutter'
